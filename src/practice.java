@@ -17,6 +17,7 @@ public class practice {
 		//Just creat the new branch. 
 
 		
+		//this line would be the conflict and show red
 		//editing...
 	}
 
